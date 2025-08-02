@@ -26,7 +26,3 @@ Unlike traditional networks, Connexta isn't just about presence — it's about p
 ---
 
 ## 🧑‍💻 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/XcEL06/connexta.git
